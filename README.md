@@ -1,4 +1,5 @@
-<h3 align="center">Computer Science @ Faculty of Computer Science and Engineering. Frontend Developer @ ReactJS</h3>
+<h3 align="center">Computer Science @ Faculty of Computer Science and Engineering</h3>
+<h4 align="center">Frontend Developer @ ReactJS</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitanovskiviktor&label=Profile%20views&color=0e75b6&style=flat" alt="kitanovskiviktor" /> </p>
 
